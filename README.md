@@ -18,7 +18,7 @@ _Let's combine **bold** and italics_
 * Item 2
   * Subitem 1
   * Subitem 2
-*     Next item
-*     Next item
+  *   Next item
+  *   Next item
 
 *This is an ordered list*
