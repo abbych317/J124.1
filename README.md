@@ -27,3 +27,7 @@ _Let's combine **bold** and italics_
 3. Item 3
 4.   Subitem 1
 5.   Subitem 2
+
+*How to upload an image*
+1. Upload an image to Github (Upload a new file)
+2. Reference the file in your Markdown
