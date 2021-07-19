@@ -35,3 +35,6 @@ _Let's combine **bold** and italics_
 
 ![Name of the image] [File path to the image]
 Format:! [Alt text]
+
+![images] [/images.jpg]
+Format:![Tulip bunch]
