@@ -25,16 +25,14 @@ _Let's combine **bold** and italics_
 1. Item 1
 2. Item 2
 3. Item 3
-		4. Subitem 1
-		5. Subitem 2
+	4. Subitem 1
+	5. Subitem 2
 
 *How to upload an image*
 1. Upload an image to Github (Upload a new file)
 2. Reference the file in your Markdown
 3. Be sure to add an alt text description to your image
 
-![Name of the image] [File path to the image]
-Format: ![Alt text]
+`!['Name of the image','Alt text'](/File path to the image)`
 
-![images] [/images.jpg]
-Format:![Tulip bunch]
+!['images','Tulips']
