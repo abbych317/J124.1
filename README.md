@@ -33,7 +33,7 @@ _Let's combine **bold** and italics_
 2. Reference the file in your Markdown
 3. Be sure to add an alt text description to your image
 
-! [Name of the image] [File path to the image]
+![Name of the image] [File path to the image]
 Format: ![Alt text]
 
 ![images] [/images.jpg]
