@@ -33,6 +33,13 @@ _Let's combine **bold** and italics_
 2. Reference the file in your Markdown
 3. Be sure to add an alt text description to your image
 
-`!['Name of the image','Alt text'](/File path to the image)`
+`!['Name I give the image','Alt text describes the image'](/File path to the image OR image URL)`
 
-!['images','Tulips']
+!['images.jpg','Tulips'] (/flower.jpg)
+
+
+*This is a blockquote* <br>
+In the wise words of Blackstreet from "No Diggity":
+
+> How to get down
+> Good Lord
