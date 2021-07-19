@@ -11,4 +11,4 @@ _This is also italics
 **This is bold** <br>
 __This is also bold__
 
-_**Let's combine bold and italics**
+_Let's combine **bold** and italics_
