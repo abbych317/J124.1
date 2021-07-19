@@ -8,7 +8,7 @@
 *This is italics <br>
 _This is also italics
 
-**This is bold <br>
-__This is also bold
+**This is bold** <br>
+__This is also bold__
 
-_**Let's combine bold and italics**__
+_**Let's combine bold and italics**
