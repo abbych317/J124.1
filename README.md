@@ -24,9 +24,13 @@ _Let's combine **bold** and italics_
 *This is an ordered list*
 1. Item 1
 2. Item 2
-3. Item 3
-	4. Subitem 1
+3. Item 3 <br>
+	4. Subitem 1 <br>
 	5. Subitem 2
+
+
+
+
 
 *How to upload an image*
 1. Upload an image to Github (Upload a new file)
@@ -35,7 +39,11 @@ _Let's combine **bold** and italics_
 
 `!['Name I give the image','Alt text describes the image'](/File path to the image OR image URL)`
 
-!['images.jpg','Tulips'] (/flower.jpg)
+!['Peony.jpg','Tulip bunch'] (/Peony.jpg)
+
+
+
+
 
 
 *This is a blockquote* <br>
