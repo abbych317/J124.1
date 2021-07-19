@@ -4,5 +4,6 @@
 #### this is an h4 tag
 ##### this is an h5 tag
 ###### this is an h6 tag
-*This is italics
+
+*This is italics <br>
 _This is also italics
