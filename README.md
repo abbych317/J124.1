@@ -12,3 +12,13 @@ _This is also italics_
 __This is also bold__
 
 _Let's combine **bold** and italics_
+
+**This is an unordered list**
+* Item 1
+* Item 2
+*   Subitem 1
+*   Subitem 2
+*     Next item
+*     Next item
+
+*This is an ordered list*
