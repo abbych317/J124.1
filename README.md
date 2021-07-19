@@ -31,3 +31,4 @@ _Let's combine **bold** and italics_
 *How to upload an image*
 1. Upload an image to Github (Upload a new file)
 2. Reference the file in your Markdown
+3. Be sure to add an alt text description to your image
